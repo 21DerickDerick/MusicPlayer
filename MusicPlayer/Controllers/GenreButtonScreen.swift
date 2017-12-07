@@ -10,7 +10,7 @@ import UIKit
 import MediaPlayer
 
 class GenreButtonScreen: UIViewController {
-    let asd: Int = 0
+    
     var musicPlayer = MPMusicPlayerController.applicationMusicPlayer()
     
     override func viewDidLoad() {
